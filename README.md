@@ -1,2 +1,2 @@
-# eu-data-analyst-cost-of-living
-Comparative analysis of EU cost of living indices. Includes data cleaning, salary-to-expense ratios, and a dynamic visualisation dashboard for career relocation planning.
+# EU Cost of Living Comparison Dashboard
+A comprehensive analysis comparing cost of living across EU cities
