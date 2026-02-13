@@ -12,7 +12,8 @@ Calculated Metrics: Created a custom index: Purchasing Power / Price of Local Go
 GitHub: Version control and project documentation.
 
 📊 The Dashboard
-[Dashboard Screenshot](visualizations/your_screenshot_name.png)
+visualizations/Beer Affordability.png 
+visualizations/Cost of Living.png
 
 💡 Top 3 Discoveries
 Capital Fatigue: Residents in London/Paris pay a 40% "premium" for city-living that isn't always matched by salary increases.
