@@ -12,10 +12,7 @@ Calculated Metrics: Created a custom index: Purchasing Power / Price of Local Go
 GitHub: Version control and project documentation.
 
 📊 The Dashboard
-https://github.com/angkuran-dey/Europe-cost-of-living/blob/fa40311a73ebc3caa8340a5e68651928daf3ffe0/visualizations/Cost%20of%20Living.png
-https://github.com/angkuran-dey/Europe-cost-of-living/blob/0641162c264cb7d142ad5cfa3a8a39073416c881/visualizations/Cost%20of%20Living.png
-
-
+![Beer Affordability Index](visualizations/dashboard_chart.png) 
 
 💡 Top 3 Discoveries
 Capital Fatigue: Residents in London/Paris pay a 40% "premium" for city-living that isn't always matched by salary increases.
