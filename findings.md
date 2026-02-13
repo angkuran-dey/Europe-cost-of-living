@@ -3,7 +3,7 @@ Three Major Findings:
 The Swiss Paradox
 
 Zurich professionals earn 78% more than those in Erlangen
-But can afford 20% FEWER lifestyle goods
+But can afford 20% fewer lifestyle goods
 High rent and costs completely erode the salary advantage
 
 
