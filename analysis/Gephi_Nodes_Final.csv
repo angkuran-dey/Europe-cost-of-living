@@ -1,0 +1,214 @@
+Id,Label,City,Country,Rank,Rent Index,Cost of Living & Rent Index,Groceries Index,Restaurant Price Index,Local Purchasing Power Index,Estimated Beer Price (€)
+Tirana,Tirana,Tirana, Albania,156,18.3,35.6,49.6,49.7,45.6,2.0
+Vienna,Vienna,Vienna, Austria,35,29.6,54.2,74.0,75.0,133.5,5.0
+Graz,Graz,Graz, Austria,56,20.3,48.5,72.7,71.6,124.5,5.0
+Villach,Villach,Villach, Austria,100,20.1,45.4,62.4,66.7,119.3,5.0
+Minsk,Minsk,Minsk, Belarus,207,11.8,23.0,31.5,35.3,70.6,1.8
+Brussels,Brussels,Brussels, Belgium,38,33.1,55.5,72.0,89.6,128.0,5.0
+Gent,Gent,Gent, Belgium,41,26.7,52.5,70.7,89.9,123.8,5.0
+Antwerp,Antwerp,Antwerp, Belgium,51,24.3,50.5,67.6,89.4,119.1,5.0
+Leuven,Leuven,Leuven, Belgium,113,29.7,47.8,59.5,69.6,138.2,5.0
+Sarajevo,Sarajevo,Sarajevo, Bosnia And Herzegovina,180,12.0,29.1,42.7,37.0,66.4,2.0
+Sofia,Sofia,Sofia, Bulgaria,170,18.0,33.6,45.2,47.1,96.1,2.0
+Varna,Varna,Varna, Bulgaria,172,13.0,31.0,46.9,45.6,72.5,2.0
+Burgas,Burgas,Burgas, Bulgaria,184,12.9,28.2,42.2,43.0,72.0,2.0
+Plovdiv,Plovdiv,Plovdiv, Bulgaria,187,11.8,27.5,42.0,39.1,79.3,2.0
+Stara Zagora,Stara Zagora,Stara Zagora, Bulgaria,205,7.3,21.9,34.8,33.1,105.6,2.0
+Split,Split,Split, Croatia,126,25.7,43.9,53.1,66.3,74.2,3.5
+Zagreb,Zagreb,Zagreb, Croatia,137,20.2,38.8,51.9,54.7,98.4,3.5
+Rijeka,Rijeka,Rijeka, Croatia,138,16.7,37.2,49.4,56.9,79.4,3.5
+Prague,Prague,Prague, Czech Republic,121,32.0,47.3,52.9,50.5,94.2,2.5
+Brno,Brno,Brno, Czech Republic,142,22.6,39.6,50.7,43.6,93.4,2.5
+Plzen,Plzen,Plzen, Czech Republic,151,15.2,35.0,50.9,42.6,114.7,2.5
+Ostrava,Ostrava,Ostrava, Czech Republic,153,16.8,35.5,50.7,43.6,92.6,2.5
+Copenhagen,Copenhagen,Copenhagen, Denmark,10,46.1,68.0,78.3,99.9,136.9,7.5
+Aalborg,Aalborg,Aalborg, Denmark,15,24.7,55.8,79.2,93.1,151.8,7.5
+Aarhus,Aarhus,Aarhus, Denmark,18,33.2,58.5,71.1,95.6,148.4,7.5
+Odense,Odense,Odense, Denmark,21,23.2,53.2,74.3,103.0,163.3,7.5
+Tallinn,Tallinn,Tallinn, Estonia,106,20.0,44.8,58.8,70.8,88.0,4.5
+Tartu,Tartu,Tartu, Estonia,130,15.5,38.5,50.0,66.6,96.0,4.5
+Espoo,Espoo,Espoo, Finland,24,30.3,55.8,75.6,85.2,127.3,8.0
+Helsinki,Helsinki,Helsinki, Finland,31,29.4,54.3,70.6,82.2,123.5,8.0
+Turku,Turku,Turku, Finland,78,20.5,47.1,66.6,81.3,125.1,8.0
+Paris,Paris,Paris, France,20,43.5,62.9,77.9,75.2,118.0,7.0
+Strasbourg,Strasbourg,Strasbourg, France,28,22.8,51.5,87.9,68.8,112.1,7.0
+Marseille,Marseille,Marseille, France,36,21.4,50.5,89.3,70.6,100.4,7.0
+Nice,Nice,Nice, France,39,30.2,54.1,78.4,75.7,96.5,7.0
+Lyon,Lyon,Lyon, France,45,22.8,50.2,79.4,66.2,126.1,7.0
+Bordeaux,Bordeaux,Bordeaux, France,62,23.2,49.2,75.4,71.3,126.2,7.0
+Toulouse,Toulouse,Toulouse, France,71,21.1,47.7,76.4,67.5,119.0,7.0
+Lille,Lille,Lille, France,96,22.4,46.8,73.9,69.6,133.9,7.0
+Grenoble,Grenoble,Grenoble, France,101,19.7,45.2,70.1,62.4,127.0,7.0
+Montpellier,Montpellier,Montpellier, France,102,21.9,46.1,75.2,61.5,118.7,7.0
+Munich,Munich,Munich, Germany,26,45.4,62.4,63.5,81.9,142.7,4.5
+Frankfurt,Frankfurt,Frankfurt, Germany,33,36.1,57.1,66.8,75.7,156.6,4.5
+Dusseldorf,Dusseldorf,Dusseldorf, Germany,37,32.5,55.4,65.5,75.3,143.6,4.5
+Heidelberg,Heidelberg,Heidelberg, Germany,40,34.4,56.0,68.5,68.9,114.9,4.5
+Hamburg,Hamburg,Hamburg, Germany,48,32.4,54.2,63.8,75.1,142.3,4.5
+Wiesbaden,Wiesbaden,Wiesbaden, Germany,49,26.3,51.5,65.9,76.9,131.2,4.5
+Darmstadt,Darmstadt,Darmstadt, Germany,52,28.8,52.5,68.0,71.4,137.1,4.5
+Stuttgart,Stuttgart,Stuttgart, Germany,53,30.1,53.0,66.6,72.4,144.2,4.5
+Cologne,Cologne,Cologne, Germany,54,29.1,52.5,66.5,71.7,130.9,4.5
+Augsburg,Augsburg,Augsburg, Germany,59,25.1,50.4,66.6,72.3,137.0,4.5
+Essen,Essen,Essen, Germany,60,18.1,47.3,66.8,69.3,141.0,4.5
+Dortmund,Dortmund,Dortmund, Germany,63,19.9,47.7,67.2,65.6,148.3,4.5
+Berlin,Berlin,Berlin, Germany,65,36.2,54.9,63.0,68.1,126.1,4.5
+Kiel,Kiel,Kiel, Germany,67,20.2,47.6,70.0,68.9,131.2,4.5
+Bonn,Bonn,Bonn, Germany,69,28.5,51.1,69.4,63.7,151.8,4.5
+Nuremberg,Nuremberg,Nuremberg, Germany,72,23.5,48.7,64.4,70.4,147.5,4.5
+Dresden,Dresden,Dresden, Germany,73,19.8,46.9,65.3,71.1,135.1,4.5
+Karlsruhe,Karlsruhe,Karlsruhe, Germany,74,27.3,50.2,67.8,65.3,127.3,4.5
+Mannheim,Mannheim,Mannheim, Germany,82,22.8,48.0,67.5,60.2,179.8,4.5
+Bremen,Bremen,Bremen, Germany,83,22.3,47.8,67.3,66.5,139.3,4.5
+Hanover,Hanover,Hanover, Germany,84,22.6,47.7,64.8,66.2,127.1,4.5
+Leipzig,Leipzig,Leipzig, Germany,89,21.1,46.7,66.3,62.6,130.1,4.5
+Erlangen,Erlangen,Erlangen, Germany,93,23.5,47.5,68.8,61.0,193.7,4.5
+Aachen,Aachen,Aachen, Germany,94,20.2,46.0,64.4,61.6,140.2,4.5
+Remagen,Remagen,Remagen, Germany,122,15.8,39.9,56.1,49.7,80.7,4.5
+Athens,Athens,Athens, Greece,128,18.2,40.2,55.1,62.9,66.1,4.5
+Heraklion,Heraklion,Heraklion, Greece,132,16.6,38.1,53.9,53.3,62.2,4.5
+Thessaloniki,Thessaloniki,Thessaloniki, Greece,141,14.2,35.9,50.3,61.1,62.7,4.5
+Budapest,Budapest,Budapest, Hungary,149,20.3,37.3,47.8,50.5,84.9,2.5
+Pecs,Pecs,Pecs, Hungary,162,13.4,32.7,48.7,44.7,57.4,2.5
+Debrecen,Debrecen,Debrecen, Hungary,171,15.5,32.2,45.5,44.3,71.1,2.5
+Reykjavik,Reykjavik,Reykjavik, Iceland,7,50.1,77.1,105.2,109.3,109.0,9.5
+Dublin,Dublin,Dublin, Ireland,23,59.7,69.1,71.7,89.2,114.6,6.5
+Cork,Cork,Cork, Ireland,46,45.3,60.2,74.5,77.4,116.5,6.5
+Galway,Galway,Galway, Ireland,47,51.9,63.0,71.2,79.7,93.2,6.5
+Limerick,Limerick,Limerick, Ireland,87,41.5,55.9,72.0,70.4,119.0,6.5
+Milan,Milan,Milan, Italy,42,41.4,58.9,70.3,78.2,83.5,5.5
+Florence,Florence,Florence, Italy,68,31.0,52.3,73.1,75.3,75.9,5.5
+Brescia,Brescia,Brescia, Italy,70,22.7,48.5,71.3,77.3,80.7,5.5
+Bologna,Bologna,Bologna, Italy,81,27.1,49.9,71.0,72.6,84.4,5.5
+Treviso,Treviso,Treviso, Italy,95,23.4,47.3,63.6,76.0,77.8,5.5
+Bolzano-Bozen,Bolzano-Bozen,Bolzano-Bozen, Italy,97,24.4,47.6,60.6,73.3,101.3,5.5
+Padova,Padova,Padova, Italy,107,23.6,46.1,63.6,67.5,85.6,5.5
+Trento,Trento,Trento, Italy,108,23.8,46.1,59.7,72.5,85.7,5.5
+Rome,Rome,Rome, Italy,109,34.9,50.7,64.9,63.5,84.3,5.5
+Cagliari,Cagliari,Cagliari, Italy,112,21.2,44.3,65.8,72.3,80.5,5.5
+Genoa,Genoa,Genoa, Italy,114,20.0,43.4,65.8,65.9,91.6,5.5
+Trieste,Trieste,Trieste, Italy,115,19.8,43.0,62.3,63.7,84.7,5.5
+Bergamo,Bergamo,Bergamo, Italy,116,20.0,42.8,61.8,65.5,103.4,5.5
+Turin,Turin,Turin, Italy,117,19.5,42.0,62.1,62.0,95.3,5.5
+Reggio Nell'emilia,Reggio Nell'emilia,Reggio Nell'emilia, Italy,120,16.9,40.6,60.3,65.3,99.2,5.5
+Naples,Naples,Naples, Italy,124,25.1,43.9,59.0,61.4,78.6,5.5
+Pisa,Pisa,Pisa, Italy,127,20.2,41.2,61.6,57.4,97.3,5.5
+Bari,Bari,Bari, Italy,131,20.8,40.5,57.0,58.1,94.7,5.5
+Catania,Catania,Catania, Italy,146,14.6,35.3,46.7,56.5,112.0,5.5
+Pristina,Pristina,Pristina, Kosovo (Disputed Territory),212,8.4,19.7,29.9,25.5,66.4,2.0
+Riga,Riga,Riga, Latvia,133,14.5,36.9,48.4,59.6,82.3,4.0
+Vilnius,Vilnius,Vilnius, Lithuania,143,20.1,38.3,45.9,58.3,96.3,4.0
+Kaunas,Kaunas,Kaunas, Lithuania,144,13.6,35.2,49.7,59.0,84.1,4.0
+Luxembourg,Luxembourg,Luxembourg, Luxembourg,16,54.8,69.1,78.5,90.7,147.2,6.0
+Sliema,Sliema,Sliema, Malta,110,39.8,52.8,62.6,71.9,71.4,5.5
+Valletta,Valletta,Valletta, Malta,119,35.2,48.9,56.0,67.9,83.9,5.5
+Chisinau,Chisinau,Chisinau, Moldova,197,15.8,27.2,33.8,34.0,56.2,1.5
+Podgorica,Podgorica,Podgorica, Montenegro,181,16.7,30.9,41.1,43.5,72.1,3.0
+Amsterdam,Amsterdam,Amsterdam, Netherlands,14,60.0,72.5,71.5,91.8,129.9,5.5
+Haarlem,Haarlem,Haarlem, Netherlands,17,43.5,63.5,70.9,92.9,118.5,5.5
+Utrecht,Utrecht,Utrecht, Netherlands,22,44.2,62.5,68.8,79.6,143.7,5.5
+Rotterdam,Rotterdam,Rotterdam, Netherlands,29,41.1,59.7,68.2,82.2,126.3,5.5
+Delft,Delft,Delft, Netherlands,32,39.5,58.7,70.7,87.1,116.6,5.5
+The Hague (Den Haag),The Hague (Den Haag),The Hague (Den Haag), Netherlands,44,43.8,59.6,67.6,79.3,147.5,5.5
+Eindhoven,Eindhoven,Eindhoven, Netherlands,50,36.0,55.8,65.5,79.1,139.8,5.5
+Leiden,Leiden,Leiden, Netherlands,57,36.3,55.6,67.1,72.8,157.4,5.5
+Groningen,Groningen,Groningen, Netherlands,76,28.0,50.5,67.1,75.0,126.7,5.5
+Skopje,Skopje,Skopje, North Macedonia,192,9.5,25.3,37.2,32.6,65.5,2.0
+Oslo,Oslo,Oslo, Norway,8,39.3,67.5,90.7,99.1,110.8,9.5
+Bergen,Bergen,Bergen, Norway,11,29.0,60.3,84.5,98.3,126.9,9.5
+Trondheim,Trondheim,Trondheim, Norway,12,29.8,60.3,88.0,89.8,127.6,9.5
+Stavanger,Stavanger,Stavanger, Norway,13,37.1,62.4,84.3,89.5,134.9,9.5
+Warsaw,Warsaw,Warsaw, Poland,140,28.5,42.3,46.4,52.5,98.9,3.5
+Gdansk,Gdansk,Gdansk, Poland,155,21.6,37.2,42.1,51.8,97.1,3.5
+Krakow (Cracow),Krakow (Cracow),Krakow (Cracow), Poland,157,22.4,37.4,41.9,50.9,102.8,3.5
+Wroclaw,Wroclaw,Wroclaw, Poland,158,21.7,37.1,42.3,51.4,92.8,3.5
+Lodz,Lodz,Lodz, Poland,165,15.4,33.1,40.9,49.9,98.0,3.5
+Poznan,Poznan,Poznan, Poland,168,19.0,34.2,39.7,47.3,105.3,3.5
+Szczecin,Szczecin,Szczecin, Poland,174,16.7,32.2,39.2,43.7,101.3,3.5
+Katowice,Katowice,Katowice, Poland,175,15.6,31.7,41.6,46.1,101.6,3.5
+Lisbon,Lisbon,Lisbon, Portugal,136,38.6,47.2,50.1,53.1,60.9,3.0
+Porto,Porto,Porto, Portugal,159,29.6,40.5,46.5,47.0,68.9,3.0
+Coimbra,Coimbra,Coimbra, Portugal,166,20.9,35.5,47.8,42.5,75.8,3.0
+Braga,Braga,Braga, Portugal,167,21.0,35.2,46.3,43.8,71.2,3.0
+Bucharest,Bucharest,Bucharest, Romania,169,15.6,32.6,42.9,53.4,85.4,2.5
+Cluj-Napoca,Cluj-Napoca,Cluj-Napoca, Romania,176,17.4,32.5,42.4,49.1,83.6,2.5
+Brasov,Brasov,Brasov, Romania,178,17.2,31.9,40.5,49.6,67.9,2.5
+Constanta,Constanta,Constanta, Romania,179,14.8,30.7,39.6,52.0,62.9,2.5
+Timisoara,Timisoara,Timisoara, Romania,182,11.7,28.1,38.5,46.9,90.8,2.5
+Iasi,Iasi,Iasi, Romania,185,11.7,27.7,39.1,41.2,75.7,2.5
+Craiova,Craiova,Craiova, Romania,188,11.0,27.0,37.1,39.7,78.6,2.5
+Sibiu,Sibiu,Sibiu, Romania,190,12.2,26.8,36.5,43.8,86.5,2.5
+Oradea,Oradea,Oradea, Romania,191,8.8,25.1,37.7,40.1,74.6,2.5
+Moscow,Moscow,Moscow, Russia,164,34.1,41.5,40.7,47.3,81.4,2.0
+Vladivostok,Vladivostok,Vladivostok, Russia,177,16.7,31.9,40.4,43.4,53.6,2.0
+Yekaterinburg,Yekaterinburg,Yekaterinburg, Russia,183,16.2,29.8,37.8,42.5,58.5,2.0
+Saint Petersburg,Saint Petersburg,Saint Petersburg, Russia,186,18.9,30.8,37.4,37.2,74.5,2.0
+Tyumen,Tyumen,Tyumen, Russia,189,14.5,28.1,37.9,41.4,57.5,2.0
+Kazan,Kazan,Kazan, Russia,194,13.2,26.3,35.5,35.2,63.1,2.0
+Novosibirsk,Novosibirsk,Novosibirsk, Russia,195,12.3,25.9,35.6,33.3,60.8,2.0
+Kaliningrad,Kaliningrad,Kaliningrad, Russia,196,11.2,25.2,36.6,34.1,61.1,2.0
+Ufa,Ufa,Ufa, Russia,198,10.4,24.7,35.0,38.3,61.0,2.0
+Samara,Samara,Samara, Russia,199,11.1,25.0,32.0,37.4,54.0,2.0
+Krasnodar,Krasnodar,Krasnodar, Russia,200,12.2,25.5,32.5,35.7,61.8,2.0
+Nizhny Novgorod,Nizhny Novgorod,Nizhny Novgorod, Russia,201,13.0,25.8,33.7,38.7,58.7,2.0
+Tomsk,Tomsk,Tomsk, Russia,202,10.7,24.6,36.6,28.7,57.5,2.0
+Rostov-on-Don (Rostov-na-donu),Rostov-on-Don (Rostov-na-donu),Rostov-on-Don (Rostov-na-donu), Russia,203,11.3,24.8,33.5,37.6,65.9,2.0
+Chelyabinsk,Chelyabinsk,Chelyabinsk, Russia,204,10.4,24.3,34.7,32.4,51.3,2.0
+Perm,Perm,Perm, Russia,206,11.2,23.4,34.2,29.5,64.7,2.0
+Belgrade,Belgrade,Belgrade, Serbia,163,21.5,36.0,42.0,52.3,65.0,2.5
+Novi Sad,Novi Sad,Novi Sad, Serbia,173,14.3,31.3,41.3,45.3,62.9,2.5
+Nis,Nis,Nis, Serbia,193,8.7,24.8,35.4,34.9,67.3,2.5
+Bratislava,Bratislava,Bratislava, Slovakia,135,22.9,40.4,52.9,49.9,82.1,3.0
+Kosice,Kosice,Kosice, Slovakia,145,23.4,39.3,51.2,48.7,75.5,3.0
+Ljubljana,Ljubljana,Ljubljana, Slovenia,129,27.2,44.0,52.8,59.0,85.0,3.5
+Madrid,Madrid,Madrid, Spain,118,36.2,49.4,56.1,63.4,104.1,4.0
+Barcelona,Barcelona,Barcelona, Spain,123,36.0,48.9,56.0,63.8,95.1,4.0
+Palma de Mallorca,Palma de Mallorca,Palma de Mallorca, Spain,125,32.0,47.0,52.1,64.8,85.0,4.0
+Bilbao,Bilbao,Bilbao, Spain,134,26.5,42.0,50.6,62.1,106.3,4.0
+Oviedo,Oviedo,Oviedo, Spain,139,17.7,37.6,53.3,58.4,111.4,4.0
+Malaga,Malaga,Malaga, Spain,147,30.6,42.1,49.4,58.3,84.0,4.0
+Santa Cruz de Tenerife,Santa Cruz de Tenerife,Santa Cruz de Tenerife, Spain,148,25.2,39.6,52.6,54.7,93.9,4.0
+Alicante,Alicante,Alicante, Spain,150,22.2,38.1,51.8,53.7,105.0,4.0
+Valencia,Valencia,Valencia, Spain,152,28.6,40.8,46.2,58.9,111.6,4.0
+Seville (Sevilla),Seville (Sevilla),Seville (Sevilla), Spain,154,21.8,37.4,52.3,50.0,98.8,4.0
+Las Palmas de Gran Canaria,Las Palmas de Gran Canaria,Las Palmas de Gran Canaria, Spain,160,22.8,37.5,53.6,47.4,93.8,4.0
+Granada,Granada,Granada, Spain,161,18.6,35.4,47.1,49.9,108.1,4.0
+Stockholm,Stockholm,Stockholm, Sweden,19,36.1,59.7,72.8,82.0,116.9,7.5
+Malmo,Malmo,Malmo, Sweden,66,26.4,50.4,72.2,72.8,129.5,7.5
+Gothenburg,Gothenburg,Gothenburg, Sweden,75,25.4,49.4,68.0,76.5,154.7,7.5
+Uppsala,Uppsala,Uppsala, Sweden,79,22.6,48.1,70.6,70.4,128.4,7.5
+Lund,Lund,Lund, Sweden,103,23.9,47.0,68.2,69.7,134.1,7.5
+Zurich,Zurich,Zurich, Switzerland,1,70.6,97.1,115.4,121.0,164.4,9.0
+Geneva,Geneva,Geneva, Switzerland,2,65.1,93.6,114.3,121.8,158.5,9.0
+Basel,Basel,Basel, Switzerland,3,49.6,84.4,110.4,114.9,183.7,9.0
+Lausanne,Lausanne,Lausanne, Switzerland,4,55.0,86.3,108.9,116.2,163.7,9.0
+Lugano,Lugano,Lugano, Switzerland,5,47.0,81.9,107.3,125.3,153.6,9.0
+Bern,Bern,Bern, Switzerland,6,46.8,81.8,107.3,110.2,174.4,9.0
+Kiev (Kyiv),Kiev (Kyiv),Kiev (Kyiv), Ukraine,208,13.7,23.8,32.2,31.0,58.7,1.5
+Dnipro,Dnipro,Dnipro, Ukraine,209,10.3,21.8,28.7,36.6,44.3,1.5
+Odessa (Odesa),Odessa (Odesa),Odessa (Odesa), Ukraine,210,7.0,19.6,29.5,28.5,46.2,1.5
+Lviv,Lviv,Lviv, Ukraine,211,11.0,21.2,29.6,27.4,53.9,1.5
+Kharkiv,Kharkiv,Kharkiv, Ukraine,213,5.5,17.3,27.3,24.8,51.7,1.5
+London,London,London, United Kingdom,9,70.1,79.7,68.9,89.7,117.5,6.8
+Oxford,Oxford,Oxford, United Kingdom,25,47.9,63.6,68.0,88.8,113.5,6.8
+Guildford,Guildford,Guildford, United Kingdom,27,42.4,60.7,71.5,76.7,120.0,6.8
+Brighton,Brighton,Brighton, United Kingdom,30,42.9,60.4,67.7,79.9,111.1,6.8
+Cambridge,Cambridge,Cambridge, United Kingdom,34,45.5,61.3,66.4,82.8,124.0,6.8
+Edinburgh,Edinburgh,Edinburgh, United Kingdom,43,37.9,57.3,65.6,84.2,118.6,6.8
+Reading,Reading,Reading, United Kingdom,55,40.4,57.5,62.5,83.7,124.1,6.8
+Bristol,Bristol,Bristol, United Kingdom,58,42.2,58.2,65.8,79.9,113.8,6.8
+Southampton,Southampton,Southampton, United Kingdom,61,34.6,54.4,64.0,82.8,119.1,6.8
+Manchester,Manchester,Manchester, United Kingdom,64,40.1,56.7,67.8,75.3,114.1,6.8
+Birmingham,Birmingham,Birmingham, United Kingdom,77,30.8,51.7,64.7,69.7,124.5,6.8
+Leeds,Leeds,Leeds, United Kingdom,80,31.1,51.8,66.7,71.2,116.4,6.8
+Glasgow,Glasgow,Glasgow, United Kingdom,85,33.8,52.7,64.3,72.2,124.7,6.8
+Newcastle upon Tyne,Newcastle upon Tyne,Newcastle upon Tyne, United Kingdom,86,27.9,49.9,62.3,77.4,148.3,6.8
+Milton Keynes,Milton Keynes,Milton Keynes, United Kingdom,88,35.6,53.2,59.4,70.9,123.4,6.8
+York,York,York, United Kingdom,90,32.7,51.8,61.8,81.6,124.3,6.8
+Cardiff,Cardiff,Cardiff, United Kingdom,91,32.1,51.4,66.2,72.6,119.4,6.8
+Bournemouth,Bournemouth,Bournemouth, United Kingdom,92,36.2,53.3,58.0,73.6,116.4,6.8
+Liverpool,Liverpool,Liverpool, United Kingdom,98,27.6,48.9,60.8,75.6,127.2,6.8
+Belfast,Belfast,Belfast, United Kingdom,99,26.7,48.4,67.5,74.6,113.4,6.8
+Nottingham,Nottingham,Nottingham, United Kingdom,104,26.3,47.9,64.8,66.4,129.2,6.8
+Coventry,Coventry,Coventry, United Kingdom,105,30.6,49.5,66.1,68.9,133.9,6.8
+Sheffield,Sheffield,Sheffield, United Kingdom,111,26.3,46.7,56.3,68.4,132.7,6.8
