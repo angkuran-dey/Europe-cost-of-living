@@ -3,8 +3,11 @@
 📌 Project Overview
 This project analyses cost-of-living data for European cities. Instead of looking at raw prices, I developed a 'Beer Affordability Index' to measure 'Lifestyle Value', how much local leisure a resident can afford on a local salary.
 
-📊 The Dashboard
-The dashboard features bar charts that present the top 15 most expensive cities in Europe and, by contrast, the cities where a pint of beer is relatively affordable.
+📁 Dataset
+Source: [Numbeo Cost of Living Database](https://www.numbeo.com/cost-of-living/)
+Data points: Cost of living indices, rent, groceries, restaurant prices, 
+local purchasing power, average salary estimates
+Time period: February 2026
 
 🛠️ Tools Used
 Excel: Data cleaning, Pivot Tables, and Dashboard design.
