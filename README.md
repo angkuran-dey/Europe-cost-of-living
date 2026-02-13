@@ -11,6 +11,9 @@ Excel: Data cleaning, Pivot Tables, and Dashboard design.
 Calculated Metrics: Created a custom index: Purchasing Power / Price of Local Goods.
 GitHub: Version control and project documentation.
 
+📊 The Dashboard
+[Dashboard Screenshot](visualizations/your_screenshot_name.png)
+
 💡 Top 3 Discoveries
 Capital Fatigue: Residents in London/Paris pay a 40% "premium" for city-living that isn't always matched by salary increases.
 Economic Sweet Spots: Cities such as Erlangen (Germany) offer the optimal balance of high wages and moderate costs.
